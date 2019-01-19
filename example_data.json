@@ -1,0 +1,54 @@
+{
+    "participants": [
+        {
+            "name": "greg",
+            "picture": "https://via.placeholder.com/50",
+            "color": "blue"
+        },
+        {
+            "name": "jack",
+            "picture": "https://via.placeholder.com/50",
+            "color": "red"
+        }
+    ],
+    "messages": [
+        {
+            "sender": "greg",
+            "time": "2019-01-18 05:15:25",
+            "text": "lorem ipsum",
+            "attachments": [
+                {
+                    "type": "link",
+                    "link": "http://example.com"
+                }
+            ]
+        },
+        {
+            "sender": "jack",
+            "time": "2019-01-18 05:16:08",
+            "text": "dolor sit amet",
+            "attachments": [
+                {
+                    "type": "image",
+                    "link": "http://via.placeholder.com/200x100"
+                }
+            ]
+        },
+        {
+            "sender": "jack",
+            "time": "2019-01-18 05:19:53",
+            "text": "adipiscing elit est",
+            "attachments": [
+                {
+                    "type": "file",
+                    "name": "consectetur",
+                    "link": "http://example.com"
+                },
+                {
+                    "type": "link",
+                    "link": "http://example.com"
+                }
+            ]
+        }
+    ]
+}
